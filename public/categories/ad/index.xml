@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Erlich Bachman</title>
-    <link>https://example.com/categories/ad/index.xml</link>
+    <link>http://utkarshshah.com/categories/ad/index.xml</link>
     <description>Recent content on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="https://example.com/categories/ad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://utkarshshah.com/categories/ad/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Gavin Belson</title>
-      <link>https://example.com/blog/first/</link>
+      <link>http://utkarshshah.com/blog/first/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>https://example.com/blog/first/</guid>
+      <guid>http://utkarshshah.com/blog/first/</guid>
       <description>&lt;p&gt;Note: This article originally appeared in &lt;a href=&#34;http://www.coderag.com/10-facts-you-didnt-know-about-gavin-belson/&#34;&gt;CodeRag&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Gavin Belson’s name has long been synonymous with innovation—but beyond his work at Hooli, do we even know the man behind the rampant success? In a Code/Rag exclusive, Belson revealed to us 10 things about himself that aren’t common knowledge.&lt;/p&gt;

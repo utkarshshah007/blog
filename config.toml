@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://utkarshshah.com/"
+baseurl = "http://utkarshshah.com/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -9,8 +9,8 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-author = "Erlich Bachman"
-title = "Erlich Bachman"
+author = "Utkarsh Shah"
+title = "Utkarsh Shah"
 
 theme = "goa"
 
@@ -21,16 +21,16 @@ theme = "goa"
 
 ## Site Settings
 [params]
-author = "Erlich Bachman"
-intro = "Startup Guru Extraordinaire"
-description = "Now @Pied Piper. Previously @Hacker Hostel, @Bachmanity and @Aviato. <br/> \"What is F times 5? It's Fleventy-five.\""
+author = "Utkarsh Shah"
+intro = "Developer. Entrepreneur."
+description = ""
 authorimage = "headshot.jpg"
-dateformat = "Jan 2, 2006"
+dateformat = "Aug 2, 2017"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+description = "Utkarsh Shah: Software Developer, Entrepreneur"
+keywords = "Utkarsh,Shah,Karsh,UPenn,Penn,entrepreneur,developer,computer science"
 
 ## Social Accounts
 [params.social]
@@ -45,7 +45,7 @@ email = "you@example.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2017. Utkarsh Shah. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 hightlightjs = true
 
@@ -60,8 +60,8 @@ hightlightjs = true
     identifier = "about"
     weight = 200
     url = "/about/"
-[[menu.main]]
-    name = "coderag"
-    identifier = "coderag"
-    weight = 300
-    url = "/coderag/"
+#[[menu.main]]
+#    name = "coderag"
+#    identifier = "coderag"
+#    weight = 300
+#    url = "/coderag/"
