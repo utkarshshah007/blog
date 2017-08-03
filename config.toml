@@ -34,14 +34,12 @@ keywords = "Utkarsh,Shah,Karsh,UPenn,Penn,entrepreneur,developer,computer scienc
 
 ## Social Accounts
 [params.social]
-github = "<username>"
-instagram = "<username>"
-linkedin = "<username>"
-twitter = "<username>"
-facebook = "<username>"
-google = "<username>"
-stackoverflow = "<username>"
-email = "you@example.com"
+github = "utkarshshah007"
+instagram = "shahutk"
+linkedin = "utkarshshah1"
+twitter = "uss1994"
+facebook = "utkarsh.shah1"
+email = "utkarsh@utkarshshah.com"
 
 ## Extras
 [params.extra]
