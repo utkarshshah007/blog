@@ -1,5 +1,5 @@
 +++
-categories = ["blog"]
+categories = []
 comments = false
 draft = false
 showpagemeta = true

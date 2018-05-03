@@ -3,7 +3,7 @@ draft = false
 comments = false 
 slug = "django-queries" 
 tags = ["django", "python", "programming"]
-categories = ["blog"]
+categories = []
 
 title = "Exploring Relationship Queries with Django"
 description = "Django's QuerySet feature makes it easy to surface related data efficiently."

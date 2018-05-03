@@ -49,6 +49,10 @@ copyright = "© 2017-2018. Utkarsh Shah. [Some Rights Reserved](http://creativec
 poweredby = true
 hightlightjs = true
 
+[params.taxonomies]
+category = "categories"
+tag = "tags"
+
 ## Main Menu
 [[menu.main]]
     name = "blog"
