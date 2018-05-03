@@ -15,6 +15,8 @@ title = "Utkarsh Shah"
 theme = "goa"
 
 ## Hugo Built-in Features
+PygmentsCodeFences = true
+PygmentsStyle = "manni"
 #disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
 #googleAnalytics = "XYZ"
 #enableRobotsTXT = true
@@ -25,7 +27,7 @@ author = "Utkarsh Shah"
 intro = "Developer. Entrepreneur."
 description = ""
 authorimage = "headshot.jpg"
-dateformat = "Aug 2, 2017"
+dateformat = "January 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
@@ -43,7 +45,7 @@ email = "utkarsh@utkarshshah.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2017. Utkarsh Shah. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2017-2018. Utkarsh Shah. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 hightlightjs = true
 

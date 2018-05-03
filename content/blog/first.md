@@ -1,11 +1,11 @@
 +++
 categories = ["blog"]
 comments = false
-date = "2017-07-02T15:59:13-04:00"
 draft = false
 showpagemeta = true
 showcomments = true
 slug = ""
+date =  2017-08-02
 tags = ["intro", "temp"]
 title = "A First Post"
 description = "This will probably be a blog post about how I made this blog. Or, if I change my mind, it'll be about cats."
