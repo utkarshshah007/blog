@@ -13,7 +13,7 @@ showpagemeta = true
 showcomments = true
 +++
 
-When creating a Django application, almost all valuable data models take advantage of relations. Often, as projects grow, we often need to make complex queries on relationships. To illustrate this, let's use two basic models as examples: `Tour` and `Concert`.
+When creating a Django application, almost all valuable data models take advantage of relations. Often, as projects grow, we need to make complex queries on relationships. To illustrate this, let's use two basic models as examples: `Tour` and `Concert`.
 
 ```python
 class Tour(models.Model):
